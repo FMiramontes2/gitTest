@@ -17,6 +17,6 @@ function ApiTest(){
 
 }
 
-function ApiTest2(){
+function ApiTest_2(){
     
 }
